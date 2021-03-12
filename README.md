@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-itsrankit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsrankit@gmail.com)](mailto:itsrankit@gmail.com)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fankit039%2Fhit-counter)
 
-![](https://github-readme-stats.vercel.app/api?username=ankit039&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api?username=ankit039&theme=dark&show_icons=true) 
 <hr/>
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
