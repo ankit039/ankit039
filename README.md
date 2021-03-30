@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-itsrankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrankit)](https://www.linkedin.com/in/itsrankit/)
 [![Gmail Badge](https://img.shields.io/badge/-itsrankit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsrankit@gmail.com)](mailto:itsrankit@gmail.com)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fankit039%2Fhit-counter)
+![counter](https://en8cphwi4htv6aw.m.pipedream.net)
 
 ![](https://github-readme-stats.vercel.app/api?username=ankit039&theme=dark&show_icons=true) 
 <hr/>
