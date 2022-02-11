@@ -9,15 +9,15 @@
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
 
-### A Junior year undergraduate pursuing a Bachelor's degree in Computer Science Engineering from Jaypee University of Engineering and Tecnology, Guna. 
+### A Graduate from Bachelor's degree in Computer Science Engineering from Jaypee University of Engineering and Tecnology, Guna. 
 
 ### Technical proficiencies include:
 
 * Programming: C, C++, Python.
 * Frontend: React JS, HTML 5, CSS 3, Bootstrap, React-Native.
-* Backend: Node JS, Express, Hapi, PHP, GraphQL.
-* DBMS: MYSQL, Mongo DB, Firebase.
-* Cloud Services: Heroku, Docker, GCP(Google Cloud Platform)
+* Backend: Node JS, Express, Hapi, PHP.
+* DBMS: MYSQL, Mongo DB.
+* Cloud Services: Heroku.
  
 ####  • Skilled in Git, Data Structures and Algorithms, Object-oriented Programming.
 
