@@ -9,7 +9,8 @@
 
 <!--## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> Summary: <img src="https://media.giphy.com/media/lPAXUzSS1PlwgH53oz/giphy.gif" width="30">-->
 
-<h3> Software Engineer @ <a href="https://www.practo.com/"><img align="center" src="https://www.practo.com/nav/9.5.13/consumer/images/practo.svg"></a></h3>
+<!--<h3> Software Engineer @ <a href="https://www.practo.com/"><img align="center" src="https://www.practo.com/nav/9.5.13/consumer/images/practo.svg"></a></h3>-->
+<h3> Software Engineer </h3>
 
 
 #### >_ Technical proficiencies include:
